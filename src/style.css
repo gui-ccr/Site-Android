@@ -15,9 +15,9 @@
     --cor5: #063d1e;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque:'Bebas Neue';
-    --fonte-android: 'idroid';
-    --font-saira:'Saira';
+    --fonte-destaque:'Bebas Neue' Arial;
+    --fonte-android: 'idroid' Arial;
+    --font-saira:'Saira', Arial;
  }
 
 *{
