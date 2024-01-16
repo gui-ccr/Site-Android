@@ -44,7 +44,7 @@ header{
     font-size: 3em;
     color: white;
     text-align: center;
-    font-family: var(--fonte-destaque);
+    font-family: 'Saira';
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.40);
     margin-bottom: 10px;
 }
@@ -100,12 +100,12 @@ main{
 
 main h1{
     color: var(--cor5);
-    font-family: var(--fonte-saira);
+    font-family: 'Saira';
     font-weight: normal;
 }
 
 main h2{
-    font-family: var(--fonte-saira);
+    font-family: 'Saira';
     color: var(--cor4);
     font-weight: normal;
     font-size: 1.3em;
